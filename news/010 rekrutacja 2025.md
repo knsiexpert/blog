@@ -114,7 +114,7 @@ Wydział Zarządzania, Uniwersytet Gdański
 
 ## 💬 Pytania?
 
-Masz pytania dotyczące rekrutacji lub działalności Koła? Skontaktuj się z nami przez email **knsi.expert@ug.edu.pl**, napisz do nas przez Messengera na naszym **Facebooku**, lub odwiedź nas osobiście na **Wydziale Zarządzania UG** w sali E-xpert (szczegóły lokalizacji znajdziesz na naszej stronie internetowej).
+Masz pytania dotyczące rekrutacji lub działalności Koła? Skontaktuj się z nami przez email **knsi.expert@ug.edu.pl**, napisz do nas przez Messengera na naszym **Facebooku**.
 
 ---
 
@@ -132,4 +132,5 @@ Dołącz do społeczności, która od ponad **24 lat** kształtuje przyszłość
 *Koło Naukowe Systemów Informatycznych E-XPERT*  
 *AIS Student Chapter of University of Gdansk*  
 *Od 2001 roku łączymy technologię z biznesem* 🎯
+
 
