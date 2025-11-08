@@ -8,15 +8,17 @@ tags: [hackathon, aplikacja, calendar, ai-games, open-source, narzędzie, e-xper
 
 # Powstanie Hackathons Calendar
 
-<p align="center">
-  <img src="https://i.imgur.com/MkPrO2w.png" width="70%" />
-</p>
-
 ## 🎯 Gdy doświadczenie rodzi pomysł
 
 Czasami najlepsze pomysły rodzą się z frustracji. A czasami z refleksji po udanym wydarzeniu, gdy siedząc z kawą myślisz: "a gdyby tak było łatwiej?"
 
 Historia naszej aplikacji **Hackathons Calendar** zaczyna się właśnie w taki sposób czyli od konkretnego doświadczenia naszych członków, które zainspirowało do stworzenia czegoś użytecznego dla całej społeczności.
+
+<p align="center">
+  <a href="https://knsiexpert.github.io/hackathons-calendar/" target="_blank">
+    <img src="https://i.imgur.com/MkPrO2w.png" width="70%" />
+  </a>
+</p>
 
 ---
 
@@ -77,66 +79,33 @@ Cały projekt jest dostępny na **[github.com/knsiexpert/hackathons-calendar](ht
 
 ---
 
-## 🎨 Jak to działa?
-
-Aplikacja **Hackathons Calendar** jest prosta w obsłudze, ale potężna w możliwościach.
-
-### Widok kalendarzowy
-Główny widok to kalendarz, który przypomina ten z Google Calendar czy Outlooka. Każdy hackathon to wydarzenie z konkretną datą. Możesz przełączać się między miesiącami, a kliknięcie w wydarzenie pokazuje szczegóły: nazwę, lokalizację, link do rejestracji, deadline.
-
-### Widok listy
-Dla tych, którzy wolą tradycyjne podejście, jest też widok listy. Wszystkie wydarzenia ułożone chronologicznie, z możliwością sortowania według różnych kryteriów. Szukasz czegoś konkretnego? Użyj filtrów.
-
-### Filtrowanie i sortowanie
-Możesz filtrować wydarzenia według:
-- Lokalizacji (stacjonarne, online, hybrydowe)
-- Tematyki (AI, web dev, mobile, hardware, ogólne)
-- Poziomu trudności (początkujący, średniozaawansowany, zaawansowany)
-- Statusu rejestracji (otwarte, zamykające się wkrótce, zamknięte)
-
-### Szczegóły wydarzenia
-Każde wydarzenie ma swoją kartę z informacjami:
-- Data i godziny rozpoczęcia/zakończenia
-- Lokalizacja (z linkiem do mapy)
-- Organizator
-- Nagrody i sponsorzy
-- Link do oficjalnej strony i rejestracji
-- Deadline rejestracji
-- Wymagania wstępne (jeśli są)
-
----
-
 ## 🌟 Dlaczego to ma sens?
 
 Na pierwszy rzut oka mogłoby się wydawać, że to tylko kolejny kalendarz. Ale jest kilka rzeczy, które czynią Hackathons Calendar wartościowym narzędziem:
 
-### Dla studentów
-Nie musisz przeszukiwać dziesiątek stron i grup. Wszystko w jednym miejscu. Możesz zaplanować cały semestr z wyprzedzeniem, unikając kolizji z sesją i innymi zobowiązaniami. Widzisz na pierwszy rzut oka, które wydarzenia są w Twojej okolicy, a na które trzeba będzie pojechać dalej.
-
-### Dla organizatorów
-Jeśli organizujesz hackathon, możesz dodać swoje wydarzenie do kalendarza jednym Pull Requestem. Twoje wydarzenie trafi do studentów z całej Polski, którzy aktywnie szukają hackatonów. To darmowa, skuteczna promocja wśród właściwej grupy docelowej.
-
 ### Dla społeczności
 To narzędzie budowane przez społeczność, dla społeczności. Każdy może wnieść swój wkład. Dodać wydarzenie, poprawić opis, zasugerować nową funkcję. To nie jest komercyjny projekt jakiejś firmy, to nasz wspólny kalendarz.
 
----
-
-## 📊 Stan obecny i plany rozwoju
+### 📊 Stan obecny i plany rozwoju
 
 Aplikacja jest już **w pełni działająca** i dostępna pod adresem:
 
-### 👉 **[knsiexpert.github.io/hackathons-calendar](https://knsiexpert.github.io/hackathons-calendar/)**
+#### 👉 **[knsiexpert.github.io/hackathons-calendar](https://knsiexpert.github.io/hackathons-calendar/)**
 
-Obecnie w kalendarzu znajdują się wydarzenia z regionu Pomorza i całej Polski, ale naszym celem jest rozszerzenie zasięgu na cały kraj, a może nawet wydarzenia międzynarodowe dla tych, którzy myślą o wyjeździe za granicę.
-
-### Co dalej?
-
-Planujemy dodać:
-- **Powiadomienia** – możliwość zapisania się na przypomnienie przed deadline'em rejestracji
-- **Integrację z Google Calendar** – jeden klik i hackathon w Twoim kalendarzu
-- **Tagi zainteresowań** – personalizowane rekomendacje na podstawie Twoich preferencji
-- **Archiwum** – przeglądanie minionych hackatonów z rezultatami i galeriami
-- **API** – żeby inne aplikacje mogły korzystać z naszej bazy wydarzeń
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://knsiexpert.github.io/hackathons-calendar/" target="_blank">
+        <img src="https://i.imgur.com/kY3jpuH.png" width="100%" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://knsiexpert.github.io/hackathons-calendar/" target="_blank">
+        <img src="https://i.imgur.com/VQ8sU5b.png" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -193,7 +162,12 @@ Z każdym dodanym wydarzeniem, każdym zgłoszeniem, każdym wkładem społeczno
 
 ## 🙏 Podziękowania
 
-Dziękujemy Maciejowi Głowackiemu i Mateuszowi Kołaczowi za inspirację, organizatorom AI Games za stworzenie świetnego wydarzenia, oraz wszystkim, którzy wnieśli swój wkład w rozwój Hackathons Calendar.
+> Dziękujemy Maciejowi Głowackiemu i Mateuszowi Kołaczowi za inspirację, organizatorom AI Games za stworzenie świetnego wydarzenia, oraz wszystkim, którzy wnieśli swój wkład w rozwój Hackathons Calendar.
+
+<p align="center">
+  <img src="https://i.imgur.com/t5klv5p.png" width="50%" />
+</p>
+
 
 Ale największe podziękowania należą się Tobie! Osobie czytającej ten artykuł! Bo jeśli dotarłeś aż tutaj, masz w sobie tę samą ciekawość i pasję, która napędza naszą społeczność. I może właśnie Ty dodasz kolejne wydarzenie do kalendarza, napiszesz pierwszą linię kodu, lub po prostu podzielisz się linkiem ze znajomym, który szuka hackatonów.
 
