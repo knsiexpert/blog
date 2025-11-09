@@ -177,6 +177,12 @@ Widzimy się na hackathonie! 🚀
 
 ---
 
+Historia powstania aplikacji Hackathons Calendar dostępna jest również jako interaktywna prezentacja z kluczowymi punktami i wizualizacjami:
+
+👉 **[Zobacz prezentację: Hackathons Calendar](https://knsiexpert.github.io/site/utilities/presentation-hackhatons-calendar?theme=green)**
+
+---
+
 *Koło Naukowe Systemów Informatycznych E-XPERT*  
 *AIS Student Chapter of University of Gdansk*  
 *Building tools that matter, one commit at a time* 💻

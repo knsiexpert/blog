@@ -11,7 +11,9 @@ tags: [hackathon, ai, e-xpert, ug, bright-inventions, gpn-t, airspace-intelligen
 **Zaczynamy tydzień od dobrych wiadomości! 🚀**  
 W weekend **18–20 listopada** dwóch członków naszego koła — **Maciej Głowacki** oraz **Mateusz Kołacz** — wzięło udział w **hackathonie AI Games**, organizowanym przez **Airspace Intelligence** w **Gdańskim Parku Naukowo-Technologicznym**.
 
-![AI Games – baner wydarzenia](https://i.imgur.com/t5klv5p.png)
+<p align="center">
+  <img src="https://i.imgur.com/t5klv5p.png" width="40%" />
+</p>
 
 ---
 
@@ -20,7 +22,9 @@ W weekend **18–20 listopada** dwóch członków naszego koła — **Maciej Gł
 Pierwszy dzień wydarzenia upłynął pod znakiem **inspirujących prelekcji** oraz **networkingu**.  
 To właśnie wtedy nasi reprezentanci, przy **pizzy i rozmowach z innymi uczestnikami**, uformowali drużynę **"Pearl Divers" (Poławiacze Pereł)** 👨‍💻
 
-![Zespół Pearl Divers podczas hackathonu](https://i.imgur.com/OKYZdHn.png)
+<p align="center">
+  <img src="https://i.imgur.com/OKYZdHn.png" width="40%" />
+</p>
 
 ---
 
@@ -36,7 +40,9 @@ Podczas doby pełnej kodowania, analiz i burz mózgów, nasi zawodnicy przeżywa
 W przerwach od kodowania można było skorzystać z **różnorodnych atrakcji**: gier wideo, planszówek, czy nawet **zajęć z jogi** 🧩  
 To pozwoliło na chwilę oddechu i regenerację przed kolejnymi etapami pracy.
 
-![Uczestnicy hackathonu w trakcie pracy](https://i.imgur.com/TXabJA4.png)
+<p align="center">
+  <img src="https://i.imgur.com/TXabJA4.png" width="40%" />
+</p>
 
 ---
 
@@ -45,7 +51,9 @@ To pozwoliło na chwilę oddechu i regenerację przed kolejnymi etapami pracy.
 Podczas hackathonu nasi reprezentanci zdobyli **nowe umiejętności techniczne** oraz **poznali ludzi z pasją do sztucznej inteligencji i programowania**.  
 To była doskonała okazja, by połączyć **naukę z dobrą zabawą**, rozwijać się i budować wartościowe relacje w środowisku technologicznym.
 
-![Zdjęcie grupowe z hackathonu AI Games](https://i.imgur.com/wXrDkm0.png)
+<p align="center">
+  <img src="https://i.imgur.com/wXrDkm0.png" width="40%" />
+</p>
 
 ---
 
