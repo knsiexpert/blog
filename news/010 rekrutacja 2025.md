@@ -14,7 +14,7 @@ tags: [rekrutacja, e-xpert, UG, IT, studenci, spotkanie, 2025]
 
 ## 🚀 Kim jesteśmy?
 
-**KNSI E-XPERT** to jedno z najbardziej aktywnych kół naukowych na **Uniwersytecie Gdańskim**, które od **2001 roku** łączy pasję do technologii z biznesowym myśleniem. Jesteśmy częścią **międzynarodowej sieci AIS Student Chapters**, co daje nam dostęp do globalnej społeczności innowatorów.
+**KNSI E-XPERT** to jedno z najbardziej aktywnych kół naukowych na **Uniwersytecie Gdańskim**, które działa nieprzerwanie od **2001 roku** (niedługo świętujemy 25-lecie!), łącząc pasję do technologii z biznesowym myśleniem. Jesteśmy częścią **międzynarodowej sieci AIS Student Chapters**, co daje nam dostęp do globalnej społeczności innowatorów.
 
 ---
 
@@ -74,17 +74,21 @@ Oferujemy możliwość współpracy przy badaniach naukowych prowadzonych przez 
 
 ### 🗓️ Kiedy i gdzie?
 
-Szczegóły spotkania rekrutacyjnego zostaną ogłoszone wkrótce na naszych kanałach komunikacji.
+> **Czwartek, 20 listopada 2025 r., godz. 19:00**  
+> **Miejsce:** Spotkanie zdalne na **MS Teams**  
+>  
+> 📌 **[Dołącz do spotkania na Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGZhYzRlZTctZTc3Ny00OTM3LTlmN2YtMjEwYjJkYjM1YjM1%40thread.v2/0?context=%7b%22Tid%22%3a%222d9a5a9f-69b7-4940-a1a6-af55f35ba069%22%2c%22Oid%22%3a%22191246c2-1988-4b61-9d72-d2844dea5a8d%22%7d)**  
+>
 
 ### 📋 Agenda spotkania
 
-Spotkanie rozpoczniemy **prezentacją E-XPERT**, podczas której opowiemy o historii i osiągnięciach Koła, przedstawimy nasze projekty – od pierwszych pomysłów aż po finały konkursów w USA – oraz wyjaśnimy, co oznacza członkostwo w międzynarodowej sieci AIS Student Chapter.
+**Powitanie i przedstawienie Koła Naukowego E-xpert** – opowiemy o długiej historii Koła, które działa nieprzerwanie od 2001 roku (niedługo będziemy świętować 25-lecie działalności!) oraz o naszych dotychczasowych osiągnięciach, w tym sukcesach w międzynarodowych konkursach i projektach, które zdobyły uznanie na arenie światowej.
 
-Następnie omówimy **obszary naszej działalności**, prezentując aktualne projekty badawcze i planowane inicjatywy na rok akademicki 2025/2026. Przedstawimy również możliwości rozwoju i specjalizacji w różnych obszarach technologicznych.
+**Prezentacja obszarów działalności Koła** – szczegółowo omówimy nasze zajęcia, projekty badawcze i możliwości rozwoju dla członków. Pokażemy, jak w E-XPERT łączymy teorię z praktyką, tworząc realne rozwiązania technologiczne i uczestnicząc w prestiżowych konkursach międzynarodowych.
 
-W części dotyczącej **rekrutacji** wyjaśnimy, jak można dołączyć do E-XPERT, przejdziemy przez cały proces rekrutacyjny i odpowiemy na wszystkie Wasze pytania podczas sesji Q&A.
+**Pytania i dyskusja** – to czas dla Was! Odpowiemy na wszystkie pytania dotyczące działalności Koła, projektów, możliwości rozwoju i tego, czego możecie się spodziewać jako członkowie E-XPERT.
 
-Na zakończenie zaplanowaliśmy **networking**, podczas którego będziecie mogli poznać aktualnych członków Koła, porozmawiać w luźnej atmosferze przy kawie i omówić swoje pomysły na projekty. To doskonała okazja do nawiązania pierwszych kontaktów w społeczności E-XPERT.
+**Procedura zapisu nowych członków** – wyjaśnimy krok po kroku, jak dołączyć do Koła i włączyć się w jego działalność. Proces jest prosty i przyjazny – jeśli spodoba Ci się to, co usłyszysz, możesz od razu zapisać się na listę członków.
 
 ---
 
